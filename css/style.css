@@ -1,0 +1,128 @@
+body{
+    background: #f4f4f4;
+}
+.navbar{
+    min-height: 70px !important;
+    margin-bottom: 0;
+    border-radius: 0px;
+}
+
+.navbar-nav > li > a{
+    padding-top: 30px !important;
+    padding-bottom: 0 !important;
+    height: 70px;
+}
+.navbar-brand{
+    padding-top: 15px !important;
+    padding-bottom: 0 !important;
+    height: 70px;
+}
+
+.main-color-bg{
+  background-color: #202324 !important;
+  border-color: #0ab2e6 !important;
+    color: #ffffff !important;
+}
+
+.breadcrumb{
+    background:#cccccc;
+    color:#333333;
+}
+
+.breadcrumb a {
+    color: #333333;
+}
+
+
+.dash-box{
+    text-align: center;
+}
+
+.borderless{
+  border-radius: 0px;
+}
+
+
+#log{
+  margin-top: 20px;
+}
+
+.navbar-default {
+  background-color: #202324;
+  border-color: #202324;
+}
+.navbar-default .navbar-brand {
+  color: #ecf0f1;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+  color: #000000;
+}
+.navbar-default .navbar-text {
+  color: #ecf0f1;
+}
+.navbar-default .navbar-nav > li > a {
+  color: #ecf0f1;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #000000;
+}
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #000000;
+  background-color: #0ab2e6;
+}
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+  color: #000000;
+  background-color: #0ab2e6;
+}
+.navbar-default .navbar-toggle {
+  border-color: #0ab2e6;
+}
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+  background-color: #0ab2e6;
+}
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #ecf0f1;
+}
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+  border-color: #ecf0f1;
+}
+.navbar-default .navbar-link {
+  color: #ecf0f1;
+}
+.navbar-default .navbar-link:hover {
+  color: #000000;
+}
+.input-group input {
+  height: 30px;
+  width: 100%;
+  font-size: 15px;
+  border-radius: 5px;
+  border: 1px solid gray;
+}
+.error {
+  width: 92%; 
+  margin: 0px auto; 
+  padding: 10px; 
+  border: 1px solid #a94442; 
+  color: #a94442; 
+  background: #f2dede; 
+  border-radius: 5px; 
+  text-align: left;
+}
+.success {
+  color: #3c763d; 
+  background: #dff0d8; 
+  border: 1px solid #3c763d;
+  margin-bottom: 20px;
+}
+.btn-sm{
+  border-radius: 50px;
+}
